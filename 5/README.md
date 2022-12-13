@@ -48,3 +48,6 @@ console.log(text.match(정규표현식));
 `/i` : 대소문자 구분 안함
 
 `/m` : 여러 행의 문자열에 대해 검색
+
+
+![](https://kr.object.ncloudstorage.com/boostpress/49672373-ac9e-48b8-9468-6dd00d983d43.png)
